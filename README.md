@@ -1,6 +1,5 @@
-[![MasterHead](./github-header-image.png)]
-<h1 align="center">Hello there 👋, I'm Moumita Ghosh</h1>
-<h3 align="center">Statistics and Data Science @ Massachusetts Institute of Technology, M.E, B.Tech</h3>
+<h1 align="center">Hello, beautiful learning and growing community!</h1>
+<h3 align="center">Statistics & Data Science @ Massachusetts Institute of Technology, M.E, B.Tech</h3>
 
 - 🔭 I’m currently working on **predictive modelling, statistical inference, deep learning, LLMs, and optimization**
 
@@ -10,7 +9,7 @@
 
 - 📫 How to reach me **moumitaghosh1881@gmail.com**
 
-- ⚡ Fun fact **I am boring and there is no fun in it!**
+- ⚡ Fun fact **No fun. Coding, learning, repeat. Period.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
