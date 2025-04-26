@@ -1,11 +1,11 @@
-<h1 align="center">Hello, beautiful learning and growing community!</h1>
+<h2 align="center">Hello, beautiful learning and growing community!</h2>
 <h3 align="center">Statistics & Data Science @ Massachusetts Institute of Technology, M.E, B.Tech</h3>
 
-- 🔭 I’m currently working on **predictive modelling, statistical inference, deep learning, LLMs, and optimization**
+- 🔭 My research interest includes **predictive modelling, reinforcement learning, statistical inference, LLMs, and optimization**
 
-- 👯 I’m looking to collaborate on **machine learning application in healthcare domain**
+- 👯 Any collaborative ideas are welcomed, especially in **machine learning application in healthcare**
 
-- 💬 Ask me about **Statistics, ML, DS**
+- 💬 Ask me about **Statistics, Deep Learning, Causality, ML, DS**
 
 - 📫 How to reach me **moumitaghosh1881@gmail.com**
 
