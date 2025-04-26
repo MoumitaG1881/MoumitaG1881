@@ -1,8 +1,8 @@
-![Header](./github-header-image.png)
+[![Header](./github-header-image.png)]
 <h1 align="center">Hello there 👋, I'm Moumita Ghosh</h1>
 <h3 align="center">Statistics and Data Science @ Massachusetts Institute of Technology, M.E, B.Tech</h3>
 
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2951104-Data-Science-Philanthropy"
+(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2951104-Data-Science-Philanthropy")
 
 - 🔭 I’m currently working on **predictive modelling, statistical inference, deep learning, LLMs, and optimization**
 
