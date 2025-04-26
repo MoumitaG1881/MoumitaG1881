@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **moumitaghosh1881@gmail.com**
 
-- ⚡ Fun fact **No fun. Coding, learning, repeat. Period.**
+- ⚡ Fun fact **No fun. Coding, learning, repeat. Periodt.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
